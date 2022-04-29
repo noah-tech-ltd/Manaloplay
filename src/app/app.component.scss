@@ -1,0 +1,28 @@
+.master-head {
+  height: 100vh;
+  padding-top: 6.5rem;
+  padding-bottom: 5rem;
+  color: #fff;
+  background: url('../assets/images/bg.jpg') top right;
+
+  h1:nth-child(2) {
+      color: #fe5ca5;
+  }
+}
+
+.navbar {
+  background: #0c1737;
+
+  a {
+    color: #fe5ca5;
+  }
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.btn-outline-light {
+  border: none;
+  background: linear-gradient(to right, #ff3275, #fe66b1);
+}
